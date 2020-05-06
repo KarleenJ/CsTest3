@@ -1,0 +1,14 @@
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3.csprojAssemblyReference.cache
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\MainWindow.g.cs
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\App.g.cs
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3_MarkupCompile.cache
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3_MarkupCompile.lref
+C:\Users\tekks\source\repos\CTest3\CTest3\bin\Debug\CTest3.exe.config
+C:\Users\tekks\source\repos\CTest3\CTest3\bin\Debug\CTest3.exe
+C:\Users\tekks\source\repos\CTest3\CTest3\bin\Debug\CTest3.pdb
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\MainWindow.baml
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3.g.resources
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3.Properties.Resources.resources
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3.csproj.GenerateResource.cache
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3.exe
+C:\Users\tekks\source\repos\CTest3\CTest3\obj\Debug\CTest3.pdb
